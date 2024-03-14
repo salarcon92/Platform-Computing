@@ -1,0 +1,27 @@
+body,h1,h2 {
+  font-family: "Raleway", sans-serif; 
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+h3 {
+.montserrat-300 {
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+}
+}
+
+footer{
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button{
+background-color: white;
+border: none; 
+text-align: center; 
+font-size: 16px; 
+}
